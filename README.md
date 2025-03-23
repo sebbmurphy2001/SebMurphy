@@ -12,9 +12,10 @@
 
 ## 🔥 What I've worked on 
 
-- 🏗 **Machine Learning for Financial Markets** – Developing predictive models for asset price movements  
-- 📈 **Pricing Asian Options** – Implementing Monte Carlo and PDE-based methods for pricing exotic derivatives  
-- 🔮 **LSTM-Based Market Forecasting** – Enhancing time-series forecasting models for S&P 500 predictions  
+- 🏗 **Machine Learning for Financial Markets** – Developing classifiers to predict credit card approval using machine learning techniques
+- 📈 **Pricing Asian Options** – Using Monte Carlo simulations for pricing exotic derivatives
+- 🔮 **LSTM-Based Market Forecasting** – Enhancing time-series forecasting models for S&P 500 predictions
+- 🎲 **Dissertation Project** – Developing an algorithm in C++ using Prospect Theory to determine the optimal casino betting strategy
 
 ## 🚀 Skills & Technologies
 
