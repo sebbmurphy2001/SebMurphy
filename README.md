@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Murphy</h1>
-<h3 align="center">Building my expertise in blockchain at a startup, with experience bringing code into a hedge fund—passionate about driving innovation in finance.</h3>
+<h3 align="center">Detail-oriented Blockchain Analyst with a strong quantitative background and hands-on experience in machine learning, algorithmic trading, and financial analysis.</h3>
 
 ---
 ## 🧑‍💻 About Me
